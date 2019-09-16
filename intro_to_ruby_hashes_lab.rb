@@ -35,7 +35,7 @@ end
 
 def monopoly_with_fourth_tier
  base_hash = {
-   :railroads=>
+  :railroads=>
   {
     :pieces=>4,
     :rent_in_dollars=>
